@@ -42,17 +42,17 @@ git clone https://github.com/DGuabiraba/SAAS
   <tr align=center>
     <td>
       <a href="https://github.com/DGuabiraba">
-        <img src="https://avatars.githubusercontent.com/u/81264511?v=4">
+        <img src="https://avatars.githubusercontent.com/u/81264511?v=4" height="200px" width="200px">
       </a>
     </td>
     <td>
       <a href="https://github.com/Gabrielteles001">
-        <img src="https://avatars.githubusercontent.com/u/127240150?v=4">
+        <img src="https://avatars.githubusercontent.com/u/127240150?v=4" height="200px" width="200px">
       </a>
     </td>
     <td>
       <a href="https://github.com/WalterSantos08">
-        <img src="https://avatars.githubusercontent.com/u/178443270?v=4">
+        <img src="https://avatars.githubusercontent.com/u/178443270?v=4" height="200px" width="200px">
       </a>
     </td>
     

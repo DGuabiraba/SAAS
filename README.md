@@ -55,14 +55,40 @@ git clone https://github.com/DGuabiraba/SAAS
         <img src="https://avatars.githubusercontent.com/u/178443270?v=4" height="200px" width="200px">
       </a>
     </td>
-     <td>
+    <td>
       <a href="https://github.com/LeonardoIrineu">
         <img src="https://avatars.githubusercontent.com/u/112736650?v=4" height="200px" width="200px">
       </a>
     </td>
-      <td>
+    <td>
       <a href="https://github.com/RodrigoHenriqueDev">
         <img src="https://avatars.githubusercontent.com/u/87452180?v=4" height="200px" width="200px">
       </a>
     </td>
+    <td>
+      <a href="https://github.com/dorotrodrigues">
+        <img src="https://avatars.githubusercontent.com/u/111395320?v=4" height="200px" width="200px">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alvesrafaelaa">
+        <img src="https://avatars.githubusercontent.com/u/192259118?v=4" height="200px" width="200px">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/CeloDigital">
+        <img src="https://avatars.githubusercontent.com/u/147448840?v=4" height="200px" width="200px">
+      </a>
+    </td>
+     <td>
+      <a href="">
+        <img src="" height="200px" width="200px">
+      </a>
+    </td>
+     <td>
+      <a href="">
+        <img src="" height="200px" width="200px">
+      </a>
+    </td>
+    
     

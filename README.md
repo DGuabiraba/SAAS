@@ -55,4 +55,14 @@ git clone https://github.com/DGuabiraba/SAAS
         <img src="https://avatars.githubusercontent.com/u/178443270?v=4" height="200px" width="200px">
       </a>
     </td>
+     <td>
+      <a href="https://github.com/LeonardoIrineu">
+        <img src="https://avatars.githubusercontent.com/u/112736650?v=4" height="200px" width="200px">
+      </a>
+    </td>
+      <td>
+      <a href="https://github.com/RodrigoHenriqueDev">
+        <img src="https://avatars.githubusercontent.com/u/87452180?v=4" height="200px" width="200px">
+      </a>
+    </td>
     

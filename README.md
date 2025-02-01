@@ -21,8 +21,9 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
 # 🎯 Passos para rodar o projeto🔹Backend (Java)
 # Clone o repositório
+```git
 git clone https://github.com/DGuabiraba/SAAS
-
+```
 
 # 🛠️ Endpoints da API
 # 📌 Autenticação

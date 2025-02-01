@@ -62,7 +62,7 @@ git clone https://github.com/DGuabiraba/SAAS
       </a>
     </td>
     <td>
-      <a href="https://github.com/RodrigoHenriqueDev">
+      <a href="https://github.com/Rodrigo-jsx">
         <img src="https://avatars.githubusercontent.com/u/87452180?v=4" height="200px" width="200px">
       </a>
     </td>

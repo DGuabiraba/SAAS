@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois&display=swap');
+
+.tela-login, .background-branco{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #def0f7;
+    width: 100%;
+}
+
+input {
+    background-color: #F1F1F1;
+    border: 1px solid #E4E4E4;
+    border-radius: 2px;
+    width: 396px;
+    height: 41px;
+}
+
+input::placeholder {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #A9A9A9;
+    font-size: 18px;
+    text-indent: 12px;
+}
+
+.tela-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+
+}
+
+form  {
+    display: flex;
+    flex-direction: column;
+    border: none;
+    gap: 15px;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+button {
+    background-color: #1351B4;
+    color: white;
+    font-family: Arial;
+    padding: 10px;
+    border: none;
+    width: 396px;
+    height: 50px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.background-branco {
+
+    width: 556px;
+    height: 1080px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+
+}
+
+.texto {
+    color: .939393;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sigla{
+    color: black;
+    font-family: "Jacques Francois", serif;
+    font-size: 36px;
+}
+#sigla2{
+    font-family: "Jacques Francois", serif;
+   
+}   
+
+a {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.acesse-sua-conta {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.logo-texto-sigla {
+    display: flex;
+    flex-wrap: wrap;
+    width: 250px;
+}
+
+.cadastre-se {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 144.5px;
+}
+
+.hr {
+    width: 396px;
+    text-align: center;
+    
+}
+
+hr {
+    border: 0.5px solid rgba(0, 0, 0, 0.1);
+}
+
+.acesse-sua-conta {
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+.logo-conta-formulario .logo-texto-sigla {
+    margin-left: 13px;
+}
